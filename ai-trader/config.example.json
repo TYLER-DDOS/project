@@ -1,0 +1,13 @@
+{
+  "symbol": "NAS100",
+  "timeframe": "M1",
+  "risk_percent": 0.25,
+  "daily_loss_limit_percent": 1.0,
+  "max_drawdown_percent": 5.0,
+  "max_open_positions": 1,
+  "atr_period": 14,
+  "atr_stop_multiplier": 1.5,
+  "reward_risk": 1.5,
+  "max_spread_points": 40,
+  "live_trading": false
+}
